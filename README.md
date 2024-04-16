@@ -25,3 +25,12 @@ K. Server-Side Request Forgery (SSRF)
 L. Broken authentication
 
 M. Remote code execution (RCE)
+
+<BR>
+
+---------------------------------------------------------------
+
+
+<B>A. Broken access control</B>
+
+Broken Access Control is a type of application security vulnerability that enables users to access data and functionalities that they should not have access to. In most cases of Broken Access Control attacks, a malicious user takes advantage of weak or non-implementation of access control in the target application.
