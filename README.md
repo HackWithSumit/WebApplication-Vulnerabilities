@@ -20,7 +20,7 @@ I. Broken authentication
 
 J. CRLF injection
 
-K. SSRF
+K. Server-Side Request Forgery (SSRF)
 
 L. Broken authentication
 
