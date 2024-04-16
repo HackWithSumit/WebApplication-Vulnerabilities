@@ -21,3 +21,5 @@ I. Broken authentication
 J. CRLF injection
 
 K. SSRF
+
+L. Broken authentication
