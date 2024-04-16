@@ -15,3 +15,9 @@ F. CRLF injection
 G. Directory traversal
 
 H. Vulnerable and outdated components
+
+I. Broken authentication
+
+J. CRLF injection
+
+K. SSRF
