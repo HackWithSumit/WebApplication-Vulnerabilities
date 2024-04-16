@@ -2,13 +2,13 @@
 
 A. Broken access control
 
-B. Cross site Scripting
+B. Cross-site scripting (XSS)
 
 C. Security misconfiguration
 
-D. CSRF
+D. Cross-site request forgery (CSRF)
 
-E. SQL
+E. SQL Injection
 
 F. CRLF injection
 
@@ -23,3 +23,5 @@ J. CRLF injection
 K. SSRF
 
 L. Broken authentication
+
+M. Remote code execution (RCE)
